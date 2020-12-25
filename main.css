@@ -1,0 +1,89 @@
+body{
+    background-color: #d3fbff;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
+.footer{
+    background-color: #8eecf5;
+    padding-top: 0.5em;
+    padding-bottom: 0.1em;
+    margin-top: 50px;
+}
+.link-image1 {
+    padding: 1em;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    position: relative;
+    border-radius: 2em;
+}
+h3{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 2.5rem;
+    margin-top: 8px;
+}
+.myName{
+    font-size: 5.625rem;
+    font-family: 'Bangers', cursive;
+    font-weight: normal;
+    margin-top: 3px;
+}
+.page-text{
+    line-height: 1.5;
+    margin: 5%;
+}
+hr{
+    border-color: #00d9ff;
+    border-style: dotted;
+    border-width: 8px;
+    border-bottom: none;
+    margin: 50px auto;
+    height: 3%;
+    width: 10%;
+    border:0 0 5px;
+}
+img{
+    height: 90%;
+    width: 90%;
+    align-content: center;
+}
+.btn{
+    background: #00d9ff;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 20px;
+}
+.btn:hover {
+    background: #00ff9d;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+label {
+    
+    display: inline-block;
+    font: 1.5em 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    position: relative;
+    margin: 4px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
